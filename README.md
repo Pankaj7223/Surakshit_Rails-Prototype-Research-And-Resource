@@ -3,7 +3,7 @@ This project was developed for Smart India Hackathon (SIH) to detect cracks on r
 
 Features:
 
-Real-time Detection: Capable of processing live video feeds or images captured by drones or track-side cameras.
+Real-time Detection: Capable of processing data collected by accoustic emission sensors
 
 Accuracy: Employs machine learning models for enhanced accuracy in detecting cracks of varying sizes and types.
 
